@@ -113,9 +113,9 @@ body {
 }
 
 @media screen and (max-width: 650px) {
-    body {
+/*     body {
       background-color: lightgreen;
-    }
+    } */
     .search input {
        padding: 5px 5px;
         height: 30px;
